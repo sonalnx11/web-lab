@@ -1,0 +1,33 @@
+<?xml version="1.0"
+encoding ="UTF-8"?>
+<?xml-stylesheet type="text/css"
+	href="pg4.css"?>
+
+<STUDENTDATA>
+	<STUDENT>
+		<USN>1BY24CS280</USN>
+		<NAME>SONAL N</NAME>
+		<COLLEGE>BMSIT</COLLEGE>
+		<PROGRAM>CSE</PROGRAM>
+		<YEAR>2024</YEAR>
+		<EMAIL>sonalnx11@gmail.com</EMAIL>
+	</STUDENT>
+
+	<STUDENT>
+		<USN>1BY24CS197</USN>
+		<NAME>PRANEESH</NAME>
+		<COLLEGE>BMSITM</COLLEGE>
+		<PROGRAM>CSE</PROGRAM>
+		<YEAR>2024</YEAR>
+		<EMAIL>praneesh@gmail.com</EMAIL>
+	</STUDENT>
+
+	<STUDENT>
+		<USN>1BY24CS253</USN>
+		<NAME>SAANIYA G</NAME>
+		<COLLEGE>BMSITM</COLLEGE>
+		<PROGRAM>CSE</PROGRAM>
+		<YEAR>2024</YEAR>
+		<EMAIL>saaniyag@gmail.com</EMAIL>
+	</STUDENT>
+</STUDENTDATA>
